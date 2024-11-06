@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:p_mobile/page/auth/register.dart'; // Pastikan RegistPage diimpor
+import 'package:travelsavvy/page/auth/register.dart'; // Pastikan RegistPage diimpor
 
 class LoginPage extends StatelessWidget {
   const LoginPage({super.key});

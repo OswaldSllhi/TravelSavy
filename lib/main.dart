@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:p_mobile/page/auth/login.dart';
-import 'package:p_mobile/page/auth/register.dart';
-import 'package:p_mobile/page/splash.dart';
+import 'package:travelsavvy/page/auth/login.dart';
+import 'package:travelsavvy/page/auth/register.dart';
+import 'package:travelsavvy/page/splash.dart';
 // import 'package:p_mobile/page/splash.dart';
 
 void main() {
